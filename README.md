@@ -77,5 +77,6 @@ inpaint（小巧方便，比PS操作方便很多）
 1. NetSpeedMonitor （显示上行和下行速率的工具，和360显示速度的界面类似，但是可以告别各种流氓软件）
 2. WoX （快速启动神器，直接搜索即可直达应用程序）
 3. f.lux  (防蓝光，调节屏幕色温等多个屏幕选项)
+4. Quick Startup（Free startup manager to disable or delay auto-start programs）
 
 持续更新、、、
