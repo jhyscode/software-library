@@ -61,6 +61,11 @@ typora（一款好用的markdown写作器）
 
 inpaint（小巧方便，比PS操作方便很多）
 
+## 梯子
+
+1. shadowsocks
+2. v2ray
+
 ## 编程开发工具
 
 1. IntelliJ IDEA （宇宙第二IDE，Java开发必备，包含智能提示、自动导入等多种功能，一旦拥有爱不释手）
