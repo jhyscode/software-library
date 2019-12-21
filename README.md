@@ -84,5 +84,6 @@ inpaint（小巧方便，比PS操作方便很多）
 3. f.lux  (防蓝光，调节屏幕色温等多个屏幕选项)
 4. Quick Startup（Free startup manager to disable or delay auto-start programs）
 5. Traffic Monitor （是一款用于Windows平台的网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能）
+6. geek uninstaller（最好用的卸载工具，可以清除注册表和残余垃圾）
 
 持续更新、、、
