@@ -37,12 +37,12 @@
 
 ## 截图工具
 
-* Faststone Capture（目前最好用的截图软件，方便编辑截图，可以截长图、滚动截图等等）
+* Faststone Capture（截图软件，方便编辑截图，可以截长图、滚动截图等等）
+* snipaste工具，截图最方便
 
 ## 浏览器工具
 
 1. Chrome（谷歌浏览器，属于王者级别的，不管是性能还是界面，都是最好的）
-2. Cent浏览器（谷歌内核，非常纯净，功能可定制）
 
 ## 思维导图工具
 
@@ -85,7 +85,7 @@
 1. shadowsocks
 2. v2ray
 3. shadowsocks_tls、v2ray_tls
-
+4. qv2ray，先安装trojan，然后导入链接
 ## 虚拟机软件
 
 1. VMware workstation（比较好用的虚拟机软件）
@@ -117,5 +117,11 @@
 1. WoX （快速启动神器，直接搜索即可直达应用程序）
 2. f.lux  (防蓝光，调节屏幕色温等多个屏幕选项)
 3. Quick Startup（Free startup manager to disable or delay auto-start programs）
+4. Notepad3 代替系统自带的notepad，功能更强大
+
+## SSH工具
+
+1. mobaxterm，ssh工具，附带文件上传和下载功能；  
+2. finalshell，国产ssh工具，和mobaxterm类似；
 
 持续更新、、、
